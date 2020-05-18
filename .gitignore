@@ -2,3 +2,5 @@ hello
 hello.dSYM/Contents/*
 .vscode/launch.json
 .vscode/tasks.json
+.vscode/c_cpp_properties.json
+*.exe
